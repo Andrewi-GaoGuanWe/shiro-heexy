@@ -18,7 +18,7 @@ public interface ArticleService {
 	JSONObject listArticle(JSONObject jsonObject);
 
 	/**
-	 * 更新文章
+	 * 更新文章1
 	 */
 	JSONObject updateArticle(JSONObject jsonObject);
 }
